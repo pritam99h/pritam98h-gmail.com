@@ -52,8 +52,10 @@
 📌Total Patient : 56k
 📌Total Admissions : 55k
 📌Average Cost Per Patient : 35.23k 
-
 🔗 [View Project](https://github.com/pritam99h/Healthcare-Dataset-Project)
+
+### Certifications
+🔗 [View Project](https://github.com/pritam99h/Certifications-)
 
 ## 📫 Connect with Me
 - LinkedIn: linkedin.com/in/pritam-hazarika-3525a7334/
