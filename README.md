@@ -56,5 +56,5 @@
 🔗 [View Project](https://github.com/yourusername/trader-analysis)
 
 ## 📫 Connect with Me
-- LinkedIn: linkedin.com/in/pritam-hazarika-3525a7334
+- LinkedIn: linkedin.com/in/pritam-hazarika-3525a7334/
 - Email: pritam98h@gmail.com
