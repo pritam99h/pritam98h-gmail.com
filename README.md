@@ -23,14 +23,14 @@
 - Investigated patterns in followers, posts, bio length, username complexity, and profile picture usage.
 - Found correlations between numeric usernames and account authenticity.
 - Built visualizations
-🔗 [View Project](https://github.com/yourusername/trader-analysis)
+🔗 [View Project](https://github.com/pritam99h/Instagram-Fake-Spammer-Genuine-Account-Analysis)
 
 ### 📈 Drugs, Side Effects & Medical Conditions
 - Tools: Excel, Pivot Tables
 - Cleaned data by removing blanks & duplicates, structured it into tables.
 - Created Pivot Tables to analyze trends and answer diifferent questions.
 - Designed an interactive dashboard with Visuals: bar charts, pie charts, histograms, line charts
-🔗 [View Project](https://github.com/yourusername/trader-analysis)
+🔗 [View Project](https://github.com/pritam99h/Drugs-Side-Effects-Medical-Conditions)
 
 ### 📈 World Happiness Index Data Analysis.
 - Tools: SQL
@@ -42,7 +42,7 @@
 •Countries with Happiness Rank and Happiness Score below the Global Average 
 •Countries with significant gaps between Happiness Rank and Happiness Score
 •Regions have the highest average happiness score
-🔗 [View Project](https://github.com/yourusername/trader-analysis)
+🔗 [View Project](https://github.com/pritam99h/World-Happiness-Index-Data-Analysis.)
 
 ### 📈 🩺💉🩸 Healthcare Dataset Dashboard Project
 - Tools: Power BI
@@ -53,7 +53,7 @@
 📌Total Admissions : 55k
 📌Average Cost Per Patient : 35.23k 
 
-🔗 [View Project](https://github.com/yourusername/trader-analysis)
+🔗 [View Project](https://github.com/pritam99h/Healthcare-Dataset-Project)
 
 ## 📫 Connect with Me
 - LinkedIn: linkedin.com/in/pritam-hazarika-3525a7334/
