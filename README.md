@@ -15,7 +15,7 @@
 - Key Insights:
   - Using Python and Biopython, extracted key biological features such as sequence length and GC content from FASTA sequences obtained from NCBI.
   - Performed BLASTn analysis to validate species identity and assess sequence similarity.
-🔗 [View Project](https://github.com/yourusername/sales-analysis)
+🔗 [View Project](https://github.com/pritam99h/16s-rrna-bioinformatics-analysis)
 
 ### 📈 Instagram Fake, Spammer & Genuine Account Analysis
 - Tools: Python (Pandas, Matplotlib, Seaborn)
